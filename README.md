@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Aeman
 - 👀 I’m interested in anything engineering 
-- 🌱 I'm studying Computer Science at UoG 2017-2022 
+- 🌱 UoG grad BCG (Bachelor of Computing, General) 2017-2022 
 - 💞️ I’m looking to collaborate on open source software
-- 📫 How to reach me aeman.abdulmuhssen@gmail.com
+- 📫 Reach me aeman.abdulmuhssen@gmail.com
 
